@@ -1,5 +1,5 @@
 
-# BST and AVL implementation
+# BST and AVL Implementation
 
 This project is an implementation of **Binary Search Tree (BST)** and **AVL Tree**.
 Date: 27/2/2023
