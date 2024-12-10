@@ -7,7 +7,7 @@ Date: 27/2/2023
 ## Structure
 
 ```
-CS261-Data-Structures-Project/
+BST-and-AVL/
 │
 ├── src/
 │   ├── queue_and_stack.py  # Helper classes for queue and stack operations
