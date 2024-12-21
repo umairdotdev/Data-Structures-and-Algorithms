@@ -15,7 +15,7 @@ Goal:
 ## Files in the Repository
 
 - **`instance*.txt`**: Input files containing switch and lightbulb configurations.
-- **`ExistentialLightBulbProblem.PY`**: Python implementation of the solver.
+- **`ExistentialLightBulbProblem.py`**: Python implementation of the solver.
 - **`README.md`**: This documentation file.
 
 ## How to Use
@@ -27,7 +27,7 @@ Goal:
 1. Place the input files (`instance*.txt`) in the same directory as `REEIMP1.PY`.
 2. Run the script:
    ```bash
-   python REEIMP1.PY
+   python ExistentialLightBulbProblem.py
    ```
 3. Follow the on-screen prompts to analyze predefined instances or load a custom instance file.
 
