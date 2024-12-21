@@ -15,7 +15,7 @@ Goal:
 ## Files in the Repository
 
 - **`instance*.txt`**: Input files containing switch and lightbulb configurations.
-- **`REEIMP1.PY`**: Python implementation of the solver.
+- **`ExistentialLightBulbProblem.PY`**: Python implementation of the solver.
 - **`README.md`**: This documentation file.
 
 ## How to Use
