@@ -23,8 +23,19 @@ This repository showcases projects and solutions involving data structures, algo
 
 ---
 
+### 3. Existential LightBulb Problem
+- **Description**: Solves the problem of determining if a set of switches can be configured so that all connected lightbulbs remain on.
+- **Key Features**:
+  - Uses graph traversal and SAT solving techniques.
+  - Identifies conflicting variables when no solution exists.
+  - Provides switch configurations for solutions.
+- **Folder**: [ExistentialLightBulbProblem](./ExistentialLightBulbProblem)
+
+---
+
 ### Usage
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/Data-Structures-and-Algorithms.git
    cd Data-Structures-and-Algorithms
+   ```
